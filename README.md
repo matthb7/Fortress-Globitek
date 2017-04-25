@@ -6,11 +6,12 @@ Time spent: **X** hours spent in total
 
 ### Requirements
 
-- [ ] All source code and assets necessary for running app
-- [ ] `/globitek.sql` containing all required SQL, including the `secrets` table
-- [ ] GIF Walkthrough of compromise
-- [ ] Brief writeup about the vulnerabilities introduced below
+- [X] All source code and assets necessary for running app
+- [X] `/globitek.sql` containing all required SQL, including the `secrets` table
+- [X] GIF Walkthrough of compromise
+- [X] Brief writeup about the vulnerabilities introduced below
 
 ### Vulnerabilities
 
 Describe the vuln(s) here.
+<img src='globitek/globitek.gif' title='globitek' width='' alt='globitek' />
